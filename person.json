@@ -1,0 +1,14 @@
+person=[
+	{
+					firstname:"Jack",
+					lastname: "Zhang",
+					age:43
+				},
+				{
+					firstname:"Jessica",
+					lastname: "Zhang",
+					age: 9
+				}
+
+
+]
